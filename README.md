@@ -13,6 +13,7 @@ This repository contains:
 <b>(Soon to come:)</b>
 <em>A RNG Based Host code which uses a second Micro:bit to keep track of dead players and prevent wrongful eliminations
   Contains both radio Micro:bit and computer Micro:bit code</em>
+  Good for a large number of players and Micro:bits
   Compatible with Modified Base Player Code
   Available in both .hex and .py file options
 </pre>
