@@ -11,7 +11,8 @@ This repository contains:
 <em>A RNG Based Host code in both .hex and .py file options</em>
   Compatible with Base Player code
 <b>(Soon to come:)</b>
-<em>A RNG Based Host code which uses a second Micro:bit to issue commands and keep track of dead players
+<em>A RNG Based Host code which uses a second Micro:bit to keep track of dead players and prevent wrongful eliminations
   Contains both radio Micro:bit and computer Micro:bit code</em>
+  Compatible with Modified Base Player Code
   Available in both .hex and .py file options
 </pre>
